@@ -1,3 +1,6 @@
+Alunas: Francini Braga 11
+        Gabriely Cerine 14
+
 #Falta de incentivo a leitura 
 
 #1 trimestre:
@@ -8,3 +11,4 @@ Leiura eletista
 
 3 trimestre:
 Com as telas atraplaham no interesse da leitura
+
