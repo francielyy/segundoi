@@ -1,18 +1,15 @@
-.paginas{
-    width: 0%;
-    margin: 0;
-    padding: 0%;
+:root{
+    --cor-principal: #7DF8FF;
+    --cor-secundaria: #46ADB3;
+    --cor-terciaria: #B9FCFF;
+    --cor-link: #B5947F;
 }
+
 *{
     margin: 0;
     padding: 0%;
 }
+
 .menu1{
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    padding: 12px 0;
-}
-.menu2{
-    background: #b0884c;
+    background:var(--cor-secundaria);
 }
